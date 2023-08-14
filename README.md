@@ -12,7 +12,10 @@ As a ReactJS Front-End Developer and Manual Tester, I embrace the power of colla
 
 ### Tech Stack 💻
 
-- React JS | HTML/CSS | JavaScript
+- ![React JS](https://img.shields.io/badge/-React%20JS-blue?style=flat-square&logo=react&logoColor=white)
+- ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-orange?style=flat-square&logo=html5&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+
 - Front-End Development | Manual Testing | Requirement Gathering | Video Editing
 
 ### Let's Connect 🌐
