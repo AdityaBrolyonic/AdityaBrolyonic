@@ -22,6 +22,7 @@ As a ReactJS Front-End Developer and Manual Tester, I embrace the power of colla
 
 [![YouTube](https://img.shields.io/badge/YouTube-Brolyonic-red?style=flat-square&logo=youtube)](https://www.youtube.com/c/Brolyonic)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Parashar-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aditya-brolyonic/)
+[![Twitter](https://img.shields.io/badge/Twitter-Brolyonic-blue?style=flat-square&logo=twitter)](https://twitter.com/Brolyonic)
 
 ### Favorite Quote 🌌
 
