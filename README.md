@@ -18,6 +18,18 @@ As a ReactJS Front-End Developer and Manual Tester, I embrace the power of colla
 
 - Front-End Development | Manual Testing | Requirement Gathering | Video Editing
 
+### Tools 🛠️
+
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-blue?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-blue?style=flat-square&logo=microsoft-word&logoColor=white)
+![Wondershare Filmora](https://img.shields.io/badge/Wondershare%20Filmora-blue?style=flat-square&logo=wondershare&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
+
+### Projects 🛠️
+
+- Currently working on a project called [TruthYouth](https://github.com/AdityaBrolyonic/truthYouthEcommerceFrontEnd)
+
 ### Let's Connect 🌐
 
 [![YouTube](https://img.shields.io/badge/YouTube-Brolyonic-red?style=flat-square&logo=youtube)](https://www.youtube.com/c/Brolyonic)
