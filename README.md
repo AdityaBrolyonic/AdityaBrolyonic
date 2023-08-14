@@ -21,14 +21,14 @@ As a ReactJS Front-End Developer and Manual Tester, I embrace the power of colla
 ### Tools 🛠️
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-blue?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-blue?style=flat-square&logo=microsoft-word&logoColor=white)
-![Wondershare Filmora](https://img.shields.io/badge/Wondershare%20Filmora-blue?style=flat-square&logo=wondershare&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-purple?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-green?style=flat-square&logo=microsoft-word&logoColor=white)
+![Wondershare Filmora](https://img.shields.io/badge/Wondershare%20Filmora-red?style=flat-square&logo=wondershare&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
 
 ### Projects 🛠️
 
-- Currently working on a project called [TruthYouth](https://github.com/AdityaBrolyonic/truthYouthEcommerceFrontEnd)
+- Currently working on a project called [Electronic Engine]((https://github.com/AdityaBrolyonic/ElectronicEngine))
 
 ### Let's Connect 🌐
 
